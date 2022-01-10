@@ -1,0 +1,11 @@
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/HomeController.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/Ingredient.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/TacoRepository.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/IngredientByIdConverter.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/TacoCloudApplication.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/OrderController.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/TacoOrder.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/IngredientRepository.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/DesignTacoController.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/TacoOrderRepository.java
+/home/biruk/Desktop/mysqltryl/taco-cloud-sample/src/main/java/com/betsegaw/tacos/Taco.java
