@@ -1,4 +1,4 @@
-package com.betsegaw.tacos;
+package com.biruk.tacos;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,6 +1,6 @@
-package com.betsegaw.tacos;
+package com.biruk.tacos;
 
-import com.betsegaw.tacos.Ingredient.Type;
+import com.biruk.tacos.Ingredient.Type;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

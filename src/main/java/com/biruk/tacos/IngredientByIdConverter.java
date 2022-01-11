@@ -1,9 +1,9 @@
-package com.betsegaw.tacos;
+package com.biruk.tacos;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.betsegaw.tacos.Ingredient.Type;
+import com.biruk.tacos.Ingredient.Type;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;

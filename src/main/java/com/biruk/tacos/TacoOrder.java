@@ -1,11 +1,10 @@
-package com.betsegaw.tacos;
+package com.biruk.tacos;
 
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.CascadeType;
-import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -15,12 +14,13 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Pattern;
 
 import org.hibernate.validator.constraints.CreditCardNumber;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@Entity
+@Document
 @NoArgsConstructor
 public class TacoOrder implements Serializable {
 
@@ -28,7 +28,7 @@ public class TacoOrder implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private String id;
 
     @NotBlank(message = "Delivery name is required")
     private String deliveryName;

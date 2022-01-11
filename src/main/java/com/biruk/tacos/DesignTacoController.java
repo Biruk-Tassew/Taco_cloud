@@ -1,4 +1,4 @@
-package com.betsegaw.tacos;
+package com.biruk.tacos;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 import javax.validation.Valid;
 
-import com.betsegaw.tacos.Ingredient.Type;
+import com.biruk.tacos.Ingredient.Type;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
